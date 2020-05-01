@@ -42,7 +42,7 @@ Altera DE2 pin assignments file — from [here][4].
 + Altera DE2 board VGA timings — from [DE2 User Manual][5]:
 ![Altera DE2 VGA timings](https://github.com/vsilchuk/Verilog_HDL_VGA_BAM/blob/master/img/altera_de2_vga_timings.png "Altera DE2 VGA timings")
 
-![VGA vertical timing specification](https://github.com/vsilchuk/Verilog_HDL_VGA_BAM/blob/master/img/altera_de2_vga_vert_timings.png "VGA vertical timing specification")
+![VGA timings](https://github.com/vsilchuk/Verilog_HDL_VGA_BAM/blob/master/img/altera_de2_vga_timings_2.png "VGA timings")
 
 + DE2 board view:
 ![DE2 board view](https://github.com/vsilchuk/Verilog_HDL_VGA_BAM/blob/master/img/altera_de2.png "DE2 board view")
