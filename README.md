@@ -54,7 +54,7 @@ Altera DE2 pin assignments file — from [here][4].
 + BAM configuration information — Channel #1, on ("1"), duty cycle = 100%, prescaler mode = 7 (1:128):
 ![BAM configuration information](https://github.com/vsilchuk/Verilog_HDL_VGA_BAM/blob/master/img/bam_config_info_pm_7.png "BAM configuration information")
 
-+ Test image displaying — Channel #1, on ("1"), duty cycle = 100%, prescaler mode = 7 (1:128):
++ Test image:
 ![Green test image](https://github.com/vsilchuk/Verilog_HDL_VGA_BAM/blob/master/img/test_image_displaying.png "Green test image")
 
 ## Links:
